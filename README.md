@@ -8,7 +8,7 @@ This is a university project that I did on my own without a teacher supervision.
 **File organization**:
 
 Sources:
- - Sources_Eigenfaces_project.url
+ - ["Eigenfaces for Recognition" Matthew Turk and Alex Pentland](https://www.face-rec.org/algorithms/pca/jcn.pdf)
 
 DataBase:
 - Database_Eigenfaces_project.url
