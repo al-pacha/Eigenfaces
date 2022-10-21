@@ -5,7 +5,7 @@ Project's language: ITALIAN
 
 This is a university project that I did on my own without a teacher supervision. The teacher graded me with 30/30 for this project.
 
-**File organization**:
+**Files organization:**
 
 Sources:
  - ["Eigenfaces for Recognition" Matthew Turk and Alex Pentland](https://www.face-rec.org/algorithms/pca/jcn.pdf)
