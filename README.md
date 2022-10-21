@@ -8,16 +8,16 @@ This is a university project that I did on my own without a teacher supervision.
 **File organization**:
 
 Sources:
-  - Sources_Eigenfaces_project.url
+ - Sources_Eigenfaces_project.url
 DataBase:
-  - Database_Eigenfaces_project.url
+- Database_Eigenfaces_project.url
 Auxiliary function:
-  - Srotolamento.m
-  - Vett_mediati.m
-  - VisFoto.m
-  - VisualizzazioneDataBase
+- Srotolamento.m
+- Vett_mediati.m
+- VisFoto.m
+- VisualizzazioneDataBase
 Main function:
-  - Eigenfaces_project.m
+- Eigenfaces_project.m
 Project report:
-  - Relazione Eigenfaces.pdf
+- Relazione Eigenfaces.pdf
         
