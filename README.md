@@ -11,7 +11,7 @@ Sources:
  - ["Eigenfaces for Recognition" Matthew Turk and Alex Pentland](https://www.face-rec.org/algorithms/pca/jcn.pdf)
 
 DataBase:
-- Database_Eigenfaces_project.url
+- ["Face DataBase", Ralph Gross, The Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/pub_files/pub4/gross_ralph_2005_1/gross_ralph_2005_1.pdf)
 
 Auxiliary function:
 - Srotolamento.m
